@@ -13,5 +13,5 @@ I also hope it will be helpful for Label Emmaüs, and that a final estimator wit
 
 For confidentiality issues, I cannot let the data in my git repo, but you can find them in [the page of the challenge](https://qscore.meilleurdatascientistdefrance.com/competitions/32153fb0-4a40-4579-bb7c-c61cdd8ee9a9/) after having signed a confidentiality agreement.
 
-If you carefully read the model I upload, I leave a clue that allows to have still a gain of ~0.01 in the log-loss (I obtained a log-loss of 0.89163 with a Random Forest exploiting this information I detected). However, I think this is a kind of data breach, that was used by many competitors without knowing it, but when you are aware of this breach, you can still better exploit it.
+If you carefully read the model I upload, I leave a clue that allows to have still a gain of ~0.01 in the log-loss (I obtained a log-loss of 0.89163 with a Random Forest exploiting this information I detected). However, I think this is a kind of data breach, that was used by many competitors without knowing it, but when you are aware of this breach, you can still better exploit it. 
 I'll speak about that when I'll present my solution in the [French Data Meetup](https://www.meetup.com/fr-FR/FrenchData/events/252115416/) Wednesday, July 4.
