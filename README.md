@@ -15,4 +15,4 @@ For confidentiality issues, I cannot let the data in my git repo, but you can fi
 
 If you carefully read the model I upload, I leave a clue that allows to have still a gain of ~0.01 in the log-loss (I obtained a log-loss of 0.89163 with a Random Forest exploiting this information I detected). However, I think this is a kind of data breach, that was used by many competitors without knowing it, but when you are aware of this breach, you can still better exploit it. For the purpose of the challenge, this may be removed from the dataset or transformed.
 I'll speak about that when I'll present my solution in the [French Data Meetup](https://www.meetup.com/fr-FR/FrenchData/events/252115416/) Wednesday, July 4.
-I'll upload a model which takes that into account next week.
+If you want to know this clue, you can go to url_name_product_processing.py
